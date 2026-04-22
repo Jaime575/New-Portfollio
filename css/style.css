@@ -1,5 +1,6 @@
  body {
      padding-top: 70px;
+     background-color: rgb(17,48,101);
  }
 
  section {
@@ -22,8 +23,22 @@
  }
 
  .front {
+    color:white;
      font-family: "Jim Nightshade", cursive;
      font-weight: 800;
      font-size: 90px;
      font-style: normal;
+ }
+
+ .imagecrop {
+    width:250px;
+  height:auto;
+    
+ }
+
+ .bgofborder{
+    background-color: rgb(82,102,122);
+ }
+ .textwhite{
+    color:white;
  }
