@@ -42,3 +42,30 @@
  .textwhite{
     color:white;
  }
+
+
+ 
+
+ .character{
+     font-family: "Playfair Display", serif;
+     font-optical-sizing: auto;
+     font-weight: 600;
+     font-style: normal;
+ }
+
+
+.card {
+  width: 200px;
+  padding: 12px;
+  border-radius: 12px;
+  background: #1e1e1e;
+  color: white;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 10px;
+}
