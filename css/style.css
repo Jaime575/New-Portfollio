@@ -3,6 +3,7 @@
      padding-top: 70px;
      background-color: rgb(17,48,101);
  }
+ 
 
  section {
      margin-bottom: 200px;
@@ -72,6 +73,6 @@
 }
 
 .card-title{
-    color:crimson;
+    color:rgb(33, 20, 220);
 }
 
